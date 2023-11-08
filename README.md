@@ -60,4 +60,6 @@ function addUpTo(n){
 * 
 
 #
+* splice가 있으면 O(n)
+* 두개의 루프가 두개의 중첩된 개별 루프보다 훨씬 낫다
 * 
