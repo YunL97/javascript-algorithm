@@ -80,3 +80,7 @@ function addUpTo(n){
 * 재귀: 자기자신을 호출하는 절차 -> 자기자신을 호출하는 함수
 * 재귀는 모든곳에서 사용된다. json.parse가 보통 재귀적으로 작성된다
 * json.parse: json을 객체로 변경
+* stack overflow: 재귀가 멈추지 않는다는 의미
+* slice(1): 배열에서 첫번째 요소를 제외한 나머지요소들을 포함하는 새로운 배열 반환
+* concat: 배열 합치기
+* 
